@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tiffany\\source\\repos\\ABCRetail_FileStorageFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DE17FD-B68D-4A72-9B24-6B60381A75D3}|ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction.csproj|c:\\users\\tiffany\\source\\repos\\abcretail_filestoragefunction\\abcretail_filestoragefunction\\filestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DE17FD-B68D-4A72-9B24-6B60381A75D3}|ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction.csproj|solutionrelative:abcretail_filestoragefunction\\filestoragefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DE17FD-B68D-4A72-9B24-6B60381A75D3}|ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction.csproj|C:\\Users\\Tiffany\\source\\repos\\ABCRetail_FileStorageFunction\\abcretail_filestoragefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DE17FD-B68D-4A72-9B24-6B60381A75D3}|ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction.csproj|solutionrelative:abcretail_filestoragefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DE17FD-B68D-4A72-9B24-6B60381A75D3}|ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction.csproj|C:\\Users\\Tiffany\\source\\repos\\ABCRetail_FileStorageFunction\\abcretail_filestoragefunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1DE17FD-B68D-4A72-9B24-6B60381A75D3}|ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction.csproj|solutionrelative:abcretail_filestoragefunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction\\Program.cs",
+              "RelativeDocumentMoniker": "ABCRetail_FileStorageFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction\\Program.cs",
+              "RelativeToolTip": "ABCRetail_FileStorageFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:28:15.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction\\local.settings.json",
+              "RelativeDocumentMoniker": "ABCRetail_FileStorageFunction\\local.settings.json",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction\\local.settings.json",
+              "RelativeToolTip": "ABCRetail_FileStorageFunction\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T21:26:27.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileStorageFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction\\FileStorageFunction.cs",
+              "RelativeDocumentMoniker": "ABCRetail_FileStorageFunction\\FileStorageFunction.cs",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\ABCRetail_FileStorageFunction\\ABCRetail_FileStorageFunction\\FileStorageFunction.cs",
+              "RelativeToolTip": "ABCRetail_FileStorageFunction\\FileStorageFunction.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwD0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T21:22:13.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
